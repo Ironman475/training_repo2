@@ -2,8 +2,8 @@ line1 changed step7
 line2 changed step7
 line3 changed step8
 line4 changed step8
-line5
-line6
+line5 changed folder2 step18
+line6 changed folder2 step18
 line7
 line8
 line9
