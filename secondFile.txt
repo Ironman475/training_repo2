@@ -1,10 +1,12 @@
 a1
 a2
 a3 from git_1
+a3 from git_2
 a4
 a5
 a6
 a7 from git_1
+a7 from git_2
 a8
 a9
 a10
