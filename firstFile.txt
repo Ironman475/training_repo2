@@ -1,7 +1,7 @@
 line1 changed step7
 line2 changed step7
-line3
-line4
+line3 changed step8
+line4 changed step8
 line5
 line6
 line7
